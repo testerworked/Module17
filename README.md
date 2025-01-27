@@ -6,6 +6,9 @@ All home works from module 17
 UniversityStudent : JetpackCompose Composable
 
 <br>
+
+ModifierAll : Modifier all parts
+
 <br>
 <br>
 <br>
